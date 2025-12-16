@@ -1,0 +1,7 @@
+package com.sunbean.quiz.model;
+
+public class Quiz {
+	private int id;
+	public String title;
+	public String creatorId;
+}

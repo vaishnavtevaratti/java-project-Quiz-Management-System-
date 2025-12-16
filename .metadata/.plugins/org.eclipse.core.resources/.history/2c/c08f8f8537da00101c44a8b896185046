@@ -1,0 +1,13 @@
+package com.sunbean.quiz.model;
+
+public class Question {
+	private int id;
+	private int quizId;
+	private String text;
+	private String a;
+	private String b;
+	private String c;	
+	private String d;
+	private char correct;
+
+}
